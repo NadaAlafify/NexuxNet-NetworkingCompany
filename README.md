@@ -24,7 +24,7 @@ A modern, fully responsive landing page for a professional networking and cybers
 ##  Technologies Used
 
 - HTML5
-- CSS3 (Flexbox + Grid)
+- CSS3 (Flexbox)
 - Font Awesome Icons
 - Google Fonts (via system fonts)
 - Pure CSS Animations
